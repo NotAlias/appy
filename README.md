@@ -1,3 +1,10 @@
+## Auto generated
+
+This project was started by running `bun create next-app` as part of a test to see how easy vercel integration is.
+
+---
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
